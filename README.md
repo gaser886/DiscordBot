@@ -1,1 +1,1 @@
-# DiscordBot
+# ScopeTM-Bot
